@@ -1,0 +1,12 @@
+{
+  "name": "test-public-repo",
+  "version": "1.0.0",
+  "description": "Simple math utility functions",
+  "scripts": {
+    "start": "node folder-1/code-1.js && node folder-1/code-2.js && node folder-2/code-1.js && node folder-2/code-2.js",
+    "add": "node folder-1/code-1.js",
+    "sum": "node folder-1/code-2.js",
+    "multiply": "node folder-2/code-1.js",
+    "factorial": "node folder-2/code-2.js"
+  }
+}
